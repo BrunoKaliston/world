@@ -765,6 +765,7 @@
       "minecraft:skeleton": "2019-09-17 23:04:53 -0300",
       "minecraft:zombie_pigman": "2019-10-13 16:26:50 -0300",
       "minecraft:ghast": "2019-09-24 21:13:04 -0300",
+      "minecraft:guardian": "2019-11-10 15:51:22 -0200",
       "minecraft:magma_cube": "2019-09-24 21:06:37 -0300",
       "minecraft:spider": "2019-09-17 22:44:24 -0300",
       "minecraft:creeper": "2019-09-17 20:39:53 -0300",
@@ -1381,6 +1382,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/prismarine_bricks": {
+    "criteria": {
+      "has_prismarine_shard": "2019-11-10 15:51:22 -0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/red_concrete_powder": {
     "criteria": {
       "has_sand": "2019-09-17 20:35:23 -0300"
@@ -1740,6 +1747,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2019-11-10 15:51:22 -0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/diamond": {
     "criteria": {
       "has_at_least_9_diamond": "2019-09-28 22:48:53 -0300"
@@ -1947,6 +1960,12 @@
   "minecraft:recipes/redstone/birch_pressure_plate": {
     "criteria": {
       "has_planks": "2019-09-29 01:03:55 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2019-11-10 15:51:22 -0200"
     },
     "done": true
   },
